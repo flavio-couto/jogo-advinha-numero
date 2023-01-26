@@ -1,6 +1,6 @@
 //constantes
 const menorValor = 1;
-const maiorValor = 1000;
+const maiorValor = 100;
 const numeroSecreto = sortearNumero();
 
 //utilizado para que quando for mudada a constante menorVAlor ou maiorValor já altere no HTML, fiz de duas formas.
